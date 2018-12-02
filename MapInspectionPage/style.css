@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border-radius: 10px;
+}
+
+body{
+   background-image: url("./images/mess.jpg");
+}
+
+.container{
+    
+    margin: 30px auto;
+    height: 625px; 
+    border: 2px solid white;
+  
+}
+
+.map{
+    width: 55%;
+    height: 90%;
+    margin: 30px auto;
+    border: 2px solid white;
+}
+
+.informationLayout{   
+    width: 40%;
+    height: 90%;
+    margin: 30px auto;
+    border: 2px solid white;
+
+}
+.information{
+    width: 90%;
+    height: 30%;
+    margin: 9px auto;
+    border: 2px solid white;
+  
+}
+
+.info{
+    width: 60%;
+    height: 100%;
+    color: black;
+    font-size: 1.4em;
+}
+
+.InformationFlex{
+    width: 40%;
+    height: 100%;
+    line-height: 55px;
+    text-align: center;
+}
+
+.startInspection{
+    width: 90%;
+    height: 40%;
+    border: 2px solid white;
+    margin: 8px auto;
+}
+
+
+.historyInspection{
+    width: 90%;
+    height: 40%;
+    border: 2px solid white;
+    margin: 8px auto;
+}
+
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
